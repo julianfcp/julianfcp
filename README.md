@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Julian 👋🏾
+
+Versatile Web Developer with 8+ years of experience developing and managing
+complex web sites and internal web applications. Proficient in HTML, CSS,
+JavaScript and responsive design; plus, modern libraries and frameworks such as
+ReactJS, Angular, Node Js (Express) and SAP Fiori.
 
 <!--
 **julianfcp/julianfcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
