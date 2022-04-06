@@ -5,6 +5,8 @@ complex web sites and internal web applications. Proficient in HTML, CSS,
 JavaScript and responsive design; plus, modern libraries and frameworks such as
 ReactJS, Angular, Node Js (Express) and SAP Fiori.
 
+![Julian Cortes](https://github.com/julianfcp/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **julianfcp/julianfcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
