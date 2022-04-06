@@ -12,7 +12,7 @@ ReactJS, Angular, Node Js (Express) and SAP Fiori.
 const julian = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, SAP fiori],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, SAP-fiori],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
